@@ -1,0 +1,11 @@
+#python stuff
+__pycache__/
+*.pyc
+.venv/
+.env
+
+#mlflow stuff
+mlruns/
+
+#data for development
+data/
