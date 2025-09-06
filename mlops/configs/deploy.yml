@@ -1,0 +1,3 @@
+mode: fastapi
+porst: 8000
+replicas: 1

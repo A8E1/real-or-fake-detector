@@ -1,0 +1,5 @@
+base_path: ./data
+splints: { train: 0.7, val: 0.2, test: 0.1 }
+filters:
+  min_resolution: 128
+  allowed_formats: [jpg, png]
